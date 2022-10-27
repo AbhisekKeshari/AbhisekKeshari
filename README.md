@@ -1,4 +1,4 @@
-[![MasterHead](https://c.tenor.com/MQOhHplkYXgAAAAd/banner.gif)(https://www.linkedin.com/in/abhisek-keshari-4ab354194/)
+[![MasterHead](https://c.tenor.com/MQOhHplkYXgAAAAd/banner.gif)](https://www.linkedin.com/in/abhisek-keshari-4ab354194/)
 <h1 align="center">Hi 👋, I'm Abhisek Keshari</h1>
 <h3 align="center">I am an aspiring data scientist who enjoys connecting the dots: be it ideas from different disciplines, people from different teams, or applications from different industries.</h3>
 <img align="right" alt="Coding" width="400" src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2018/12/developer-dribbble.gif">
