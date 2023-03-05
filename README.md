@@ -4,9 +4,9 @@
 <img align="right" alt="Coding" width="400" src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2018/12/developer-dribbble.gif">
 
 
-- 🔭 I’m currently working on **Customer Segmentation, Translation Models**
+- 🔭 I’m currently working on **Customer Analytics and Transliteration models**
 
-- 🌱 I’m currently learning **Customer Analytics**
+- 🌱 I’m currently learning **Augmented reality**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AbhisekKeshari](https://github.com/AbhisekKeshari)
 
