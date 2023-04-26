@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **keshariabhisek6@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1iNuMjA0Bx8PnBJk6NInQMjgEVspyVIjw/view?usp=sharing](https://drive.google.com/file/d/1iNuMjA0Bx8PnBJk6NInQMjgEVspyVIjw/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1n00S9N-LZTcwUaYdxbeVC4kX9q-U4E5_/view?usp=share_link](https://drive.google.com/file/d/1n00S9N-LZTcwUaYdxbeVC4kX9q-U4E5_/view?usp=share_link)
 
 - Alternative Git profile: https://github.com/akivirus123
 
