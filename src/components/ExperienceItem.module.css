@@ -1,0 +1,45 @@
+.experienceItem {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 2rem;
+  border-radius: 12px;
+  padding: 1rem;
+  align-items: center;
+}
+
+.experienceItemLogo {
+  width: 60px;
+  height: 60px;
+  object-fit: contain;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  padding: 4px;
+  background: #fff;
+}
+
+.experienceItemContent h3 {
+  margin: 0 0 0.25rem 0;
+}
+
+.experienceItemContent small {
+  color: #666;
+}
+
+.experienceItemContent ul {
+  padding-left: 1rem;
+  margin-top: 0.5rem;
+  margin-bottom: 0;
+}
+
+.bgBlue {
+  background: #e3f2fd;
+}
+.bgPink {
+  background: #fce4ec;
+}
+.bgGreen {
+  background: #e8f5e9;
+}
+.bgYellow {
+  background: #fffde7;
+}
