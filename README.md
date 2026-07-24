@@ -14,7 +14,7 @@ I study how reinforcement learning agents generalize to unseen environments — 
 
 - Investigating evaluation methodology and reproducibility in RL generalization benchmarks
 - Exploring auxiliary learning objectives (contrastive, self-predictive) for policy generalization in procedural environments
-- Manuscripts in preparation — [reach out](mailto:abhisek.keshari12@gmail.com) for details
+- Manuscripts in preparation — reach out for details
 
 #### Selected publications
 
