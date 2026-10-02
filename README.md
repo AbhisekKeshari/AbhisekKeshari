@@ -19,7 +19,7 @@ I study how reinforcement learning agents generalize to unseen environments — 
 #### Selected publications
 
 - **NTIRE 2022 Challenge on Perceptual Image Quality Assessment** · CVPR Workshop (NTIRE) · [Paper](https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/papers/Gu_NTIRE_2022_Challenge_on_Perceptual_Image_Quality_Assessment_CVPRW_2022_paper.pdf)
-- **Multi-Scale Features and Parallel Transformers Based Image Quality Assessment** · arXiv Preprint · [Paper](https://arxiv.org/abs/2204.07056)
+- **Multi-Scale Features and Parallel Transformers Based Image Quality Assessment** · arXiv Preprint · [Paper](https://arxiv.org/abs/2204.09779)
 
 ---
 
